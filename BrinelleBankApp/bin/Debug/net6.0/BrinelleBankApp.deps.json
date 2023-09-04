@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BrinelleBankApp/1.0.0": {
+        "dependencies": {
+          "BrinelleBank.Common": "1.0.0",
+          "BrinelleBank.Core": "1.0.0",
+          "BrinelleBank.Data": "1.0.0",
+          "BrinelleBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BrinelleBankApp.dll": {}
+        }
+      },
+      "BrinelleBank.Common/1.0.0": {
+        "dependencies": {
+          "BrinelleBank.Core": "1.0.0",
+          "BrinelleBank.Data": "1.0.0",
+          "BrinelleBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BrinelleBank.Common.dll": {}
+        }
+      },
+      "BrinelleBank.Core/1.0.0": {
+        "dependencies": {
+          "BrinelleBank.Data": "1.0.0",
+          "BrinelleBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BrinelleBank.Core.dll": {}
+        }
+      },
+      "BrinelleBank.Data/1.0.0": {
+        "dependencies": {
+          "BrinelleBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BrinelleBank.Data.dll": {}
+        }
+      },
+      "BrinelleBank.Model/1.0.0": {
+        "runtime": {
+          "BrinelleBank.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BrinelleBankApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BrinelleBank.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BrinelleBank.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BrinelleBank.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BrinelleBank.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

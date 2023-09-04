@@ -1,0 +1,46 @@
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.deps.json
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.dll
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.pdb
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.sourcelink.json
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\refint\BrinelleBank.Data.dll
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\user\OneDrive\Desktop\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\ref\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.deps.json
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.AssemblyReference.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfoInputs.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfo.cs
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CopyComplete
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\refint\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Mazium\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\ref\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.deps.json
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\bin\Debug\net6.0\BrinelleBank.Model.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.AssemblyReference.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfoInputs.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.AssemblyInfo.cs
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.csproj.CopyComplete
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\refint\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Data\obj\Debug\net6.0\ref\BrinelleBank.Data.dll

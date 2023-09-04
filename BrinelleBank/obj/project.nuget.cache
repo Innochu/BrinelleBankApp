@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCAr6+J9UV82tV7+MFnFF6vRUiCOtxL8F9i6Xm4nXmMvnr3D7ejzmaSunIEzQcZCL+jLcPHbMsNx4rLSiJjOoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\week-3-task-Mazium\\BrinelleBankApp\\BrinelleBank\\BrinelleBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

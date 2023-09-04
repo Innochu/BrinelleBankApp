@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/SYW09fueaSBOSRXjXalv33lQSVqqhqiu7QyJfXz/W0oE+YSOhy/jPz466ajI4gFJywJ9skcf1lzNsy9sQHIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\week-3-task-Mazium\\BrinelleBankApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
