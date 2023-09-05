@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrinelleBank.Common", "Brin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrinelleBankApp", "BrinelleBankApp\BrinelleBankApp.csproj", "{981D2838-DC9B-4555-AB9D-FF10E020E70E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A1A395EA-C3AC-46AB-A58B-54973D0686D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrinelleBankTest", "BrinelleBankTest\BrinelleBankTest.csproj", "{1E03A9C1-9A70-4100-8DC4-289131A1A613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,9 +43,16 @@ Global
 		{981D2838-DC9B-4555-AB9D-FF10E020E70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981D2838-DC9B-4555-AB9D-FF10E020E70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{981D2838-DC9B-4555-AB9D-FF10E020E70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E03A9C1-9A70-4100-8DC4-289131A1A613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E03A9C1-9A70-4100-8DC4-289131A1A613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E03A9C1-9A70-4100-8DC4-289131A1A613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E03A9C1-9A70-4100-8DC4-289131A1A613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E03A9C1-9A70-4100-8DC4-289131A1A613} = {A1A395EA-C3AC-46AB-A58B-54973D0686D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {52FF743C-EAD9-4FDD-89E2-1BFC35E62B03}

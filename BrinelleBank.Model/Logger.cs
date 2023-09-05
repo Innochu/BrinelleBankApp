@@ -1,6 +1,4 @@
 ﻿
-
-
 namespace BrinelleBank.Model
 {
     public class Logger
