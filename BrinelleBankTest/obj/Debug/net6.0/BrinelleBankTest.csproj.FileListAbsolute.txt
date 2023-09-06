@@ -1,9 +1,4 @@
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\CoverletSourceRootsMapping_BrinelleBankTest
-C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.csproj.AssemblyReference.cache
-C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.AssemblyInfoInputs.cache
-C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.AssemblyInfo.cs
-C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.csproj.CoreCompileInputs.cache
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\testhost.dll
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\testhost.exe
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -100,6 +95,11 @@ C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\Brine
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\BrinelleBank.Core.pdb
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\BrinelleBank.Model.pdb
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\bin\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.csproj.AssemblyReference.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.AssemblyInfoInputs.cache
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.AssemblyInfo.cs
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.csproj.CoreCompileInputs.cache
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.csproj.CopyComplete
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\BrinelleBankTest.dll
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBankTest\obj\Debug\net6.0\refint\BrinelleBankTest.dll

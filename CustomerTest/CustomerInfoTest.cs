@@ -100,5 +100,46 @@ namespace CustomerTest
 			// Assert
 			Assert.Equal(1000.0, customer.GetBalance());
 		}
+
+		[Fact]
+		public void GetFirstName_ReturnsFirstName()
+		{
+			// Arrange
+			Customer customer = new Customer("John", "Doe", "1234567890", "john@example.com", "Savings", "SecurePassword", "12345678901");
+
+			// Act
+			string firstName = customer.GetFirstName();
+
+			// Assert
+			Assert.Equal("John", firstName);
+		}
+
+		[Fact]
+		public void GetLastName_ReturnsLastName()
+		{
+			// Arrange
+			Customer customer = new Customer("John", "Doe", "1234567890", "john@example.com", "Savings", "SecurePassword", "12345678901");
+
+			// Act
+			string lastName = customer.GetLastName();
+
+			// Assert
+			Assert.Equal("Doe", lastName);
+		}
+		[Fact]
+		public void GetBvn_ReturnsBvn()
+		{
+			// Arrange
+			Customer customer = new Customer("John", "Doe", "1234567890", "john@example.com", "Savings", "SecurePassword", "12345678901");
+
+			// Act
+			string bvn = customer.GetBvn();
+
+			// Assert
+			Assert.Equal("12345678901", bvn);
+		}
+
+		// Add similar test methods for other methods in the Customer class.
 	}
 }
+
