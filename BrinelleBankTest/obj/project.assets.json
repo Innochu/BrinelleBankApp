@@ -5575,6 +5575,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BrinelleBank.Common >= 1.0.0",
+      "BrinelleBank.Core >= 1.0.0",
+      "BrinelleBank.Model >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.2",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.0",
@@ -5616,6 +5618,12 @@
           "projectReferences": {
             "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
               "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj"
+            },
+            "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
+              "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
+            },
+            "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+              "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
             }
           }
         }

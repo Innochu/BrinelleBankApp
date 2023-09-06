@@ -9,6 +9,8 @@
       "BrinelleBankTest/1.0.0": {
         "dependencies": {
           "BrinelleBank.Common": "1.0.0",
+          "BrinelleBank.Core": "1.0.0",
+          "BrinelleBank.Model": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.7.2",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.0",

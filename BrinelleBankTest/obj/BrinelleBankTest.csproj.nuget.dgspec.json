@@ -296,6 +296,12 @@
             "projectReferences": {
               "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
                 "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj"
+              },
+              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
+              },
+              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
               }
             }
           }

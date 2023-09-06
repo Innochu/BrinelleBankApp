@@ -24,6 +24,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BrinelleBank.Common\BrinelleBank.Common.csproj" />
+    <ProjectReference Include="..\BrinelleBank.Core\BrinelleBank.Core.csproj" />
+    <ProjectReference Include="..\BrinelleBank.Model\BrinelleBank.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="TransactionTest\" />
   </ItemGroup>
 
 </Project>
