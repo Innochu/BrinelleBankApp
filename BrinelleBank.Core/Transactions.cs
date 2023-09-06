@@ -8,51 +8,61 @@ namespace BrinelleBank.Core
 	{
 		public static void DepositFunds(double amount)
 		{
-			if (amount > 0)
+			if (IsDepositValid(amount))
 			{
 				Customer customer = FindCustomerByAccountNumber(LoggedIn.LoggedAccount);
 
 				if (customer != null)
 				{
-					double balance = customer.GetBalance();
-					double currentBalance = balance + amount;
-					customer.SetBalance(currentBalance);
-
-					RecordTransaction(customer, amount, currentBalance);
-
+					double currentBalance = UpdateCustomerBalance(customer, amount);
+					RecordDepositTransaction(customer, amount, currentBalance);
 					Console.Clear();
 					Logger.Log($"{amount} naira has been credited to your account.");
 				}
 				else
 				{
 					Console.Clear();
-					Logger.Log("Transaction failed. Invalid account.");
+					Logger.Log("Customer not found.");
 				}
 			}
 			else
 			{
 				Console.Clear();
-				Logger.Log("Transaction failed. Invalid amount.");
+				Logger.Log("Transaction failed. Invalid amount");
 			}
 		}
 
-		private static Customer FindCustomerByAccountNumber(string accountNumber)
+		public static bool IsDepositValid(double amount)
 		{
-			foreach (var item in ListOfCustomers.customerList)
-			{
-				if (item.Key == accountNumber)
-				{
-					return item.Value;
-				}
-			}
-			return null; // Return null if customer not found
+			return amount > 0;
 		}
 
-		private static void RecordTransaction(Customer customer, double amount, double currentBalance)
+		public static Customer FindCustomerByAccountNumber(string accountNumber)
+		{
+			if (ListOfCustomers.customerList.TryGetValue(accountNumber, out Customer customer))
+			{
+				return customer;
+			}
+
+			return null;
+		}
+
+		public static double UpdateCustomerBalance(Customer customer, double amount)
+		{
+			double balance = customer.GetBalance();
+			double currentBalance = balance + amount;
+			customer.SetBalance(currentBalance);
+			return currentBalance;
+		}
+
+		public static void RecordDepositTransaction(Customer customer, double amount, double currentBalance)
 		{
 			string[] values = { customer.GetFullName(), amount.ToString(), LoggedIn.LoggedAccount, customer.GetAccountType(), currentBalance.ToString(), "CREDIT" };
 			ListOfAccount.statements.Add(new KeyValuePair<string, string[]>(LoggedIn.LoggedAccount, values));
 		}
+
+
+
 
 
 
@@ -82,7 +92,7 @@ namespace BrinelleBank.Core
 			}
 		}
 
-	
+
 		private static void PerformWithdraw(double balance, double amount, WithdrawHandler withdrawHandler)
 		{
 			if (withdrawHandler != null)
@@ -222,7 +232,7 @@ namespace BrinelleBank.Core
 				}
 			}
 			return accountType;
-		}
+		} 
 
 	}
 

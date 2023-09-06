@@ -100,3 +100,7 @@ C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\Custo
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\obj\Debug\net6.0\CustomerTest.pdb
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\obj\Debug\net6.0\CustomerTest.genruntimeconfig.cache
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\obj\Debug\net6.0\ref\CustomerTest.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\bin\Debug\net6.0\BrinelleBank.Core.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\bin\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\bin\Debug\net6.0\BrinelleBank.Core.pdb
+C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\CustomerTest\bin\Debug\net6.0\BrinelleBank.Data.pdb

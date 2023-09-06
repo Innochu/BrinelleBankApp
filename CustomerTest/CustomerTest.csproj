@@ -23,6 +23,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BrinelleBank.Core\BrinelleBank.Core.csproj" />
+    <ProjectReference Include="..\BrinelleBank.Data\BrinelleBank.Data.csproj" />
     <ProjectReference Include="..\BrinelleBank.Model\BrinelleBank.Model.csproj" />
   </ItemGroup>
 

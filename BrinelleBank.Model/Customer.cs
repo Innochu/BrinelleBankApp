@@ -29,7 +29,7 @@ namespace BrinelleBank.Model
             BVN = bvn;
         }
 
-       
+       public Customer() { }    
 
         public string GetFirstName()
         {
@@ -68,7 +68,7 @@ namespace BrinelleBank.Model
 
         public void SetBalance(double amount)
         {
-            Balance = amount;
+            Balance += amount;
         }
 
         public double GetBalance()

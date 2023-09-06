@@ -88,24 +88,8 @@ namespace BrinelleBank.Common
 			Console.WriteLine("Enter your BVN (11 digits):");
 			return Console.ReadLine();
 		}
-
-		public static string ValidateBVN(string bvn)
-		{
-			//string bvn = GetUserBVN();
-			while (!IsBVNValid(bvn))
-			{
-				if (!Regex.IsMatch(bvn, @"^[0-9]+$"))
-				{
-					Console.WriteLine("BVN must contain only numeric characters.");
-				}
-				else if (bvn.Length != 11)
-				{
-					Console.WriteLine("BVN must be exactly 11 digits.");
-				}
-				//bvn = GetUserBVN();
-			}
-			return bvn;
-		}
+		 
+		
 
 
 		public static bool IsNameValid(string name)

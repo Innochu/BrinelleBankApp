@@ -34,7 +34,7 @@ namespace BrinelleBank.Menu
         {
             Console.WriteLine("Input BVN");
             string bvn = Console.ReadLine();
-            bvn = Validation.ValidateBVN(bvn);
+            bvn = Validation.GetUserBVN(bvn);
 
             Console.WriteLine("Input first name");
             string firstName = Console.ReadLine();
