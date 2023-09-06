@@ -1,4 +1,6 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.ComponentModel;
+using System.Text.RegularExpressions;
+using System.Xml.Linq;
 using BrinelleBank.Model;
 
 namespace BrinelleBank.Common
@@ -75,53 +77,73 @@ namespace BrinelleBank.Common
 	
 
 
-	public static string ValidateBVN(string bvn)
+	
+		public static bool IsBVNValid(string bvn)
 		{
-			string bv = bvn;
-			bool valid = Regex.IsMatch(bvn, @"^[0-9]+$");
-
-			if (!valid)
-			{
-				Console.WriteLine("BVN must contain only numeric characters");
-				bv = Console.ReadLine();
-				ValidateBVN(bv);
-			}
-
-			if (bv.Length != 11)
-			{
-				Console.WriteLine("BVN must be at least 11 digits");
-				bv = Console.ReadLine();
-				ValidateBVN(bv);
-			}
-			return bv;
+			return Regex.IsMatch(bvn, @"^[0-10]+$") && bvn.Length == 11;
 		}
+
+		public static string GetUserBVN(string bvn)
+		{
+			Console.WriteLine("Enter your BVN (11 digits):");
+			return Console.ReadLine();
+		}
+
+		public static string ValidateBVN(string bvn)
+		{
+			//string bvn = GetUserBVN();
+			while (!IsBVNValid(bvn))
+			{
+				if (!Regex.IsMatch(bvn, @"^[0-9]+$"))
+				{
+					Console.WriteLine("BVN must contain only numeric characters.");
+				}
+				else if (bvn.Length != 11)
+				{
+					Console.WriteLine("BVN must be exactly 11 digits.");
+				}
+				//bvn = GetUserBVN();
+			}
+			return bvn;
+		}
+
+
+		public static bool IsNameValid(string name)
+		{
+			return Regex.IsMatch(name, @"^[A-Za-z\s]+$");
+		}
+
+		
 
 		public static string ValidateName(string name)
 		{
-			string nam = name;
-			bool valid = Regex.IsMatch(name, @"^[A-Za-z\s]+$");
-			if (!valid)
+			//string name = GetUserInputName();
+			while (!IsNameValid(name))
 			{
 				Console.WriteLine("Invalid name. Please enter a valid name consisting of letters and spaces.");
-				nam = Console.ReadLine();
-				ValidateName(nam);
+				//name = GetUserInputName();
 			}
-			return char.ToUpper(nam[0]) + nam.Substring(1);
-
+			return char.ToUpper(name[0]) + name.Substring(1);
 		}
 
-		public static string IsValidEmail(string email)
-		{
-			string em = email;
-			string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
 
-			if (!Regex.IsMatch(em, pattern))
+
+		public static bool IsEmailValid(string email)
+		{
+		
+			string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]*[a-zA-Z0-9]+(\.[a-zA-Z]{2,})+$";
+			return Regex.IsMatch(email, pattern);
+		}
+		
+		public static string ValidateEmail(string email)
+		{
+			//string email = GetUserInputEmail();
+			while (!IsEmailValid(email))
 			{
 				Console.WriteLine("Email should be written in the correct format (Email@gmail.com)");
-				em = Console.ReadLine();
-				IsValidEmail(em);
+				//email = GetUserInputEmail();
 			}
-			return em;
+			return email;
 		}
 	}
 }

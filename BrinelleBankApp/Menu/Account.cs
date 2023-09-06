@@ -50,7 +50,7 @@ namespace BrinelleBank.Menu
 
             Console.WriteLine("Input Email");
             string email = Console.ReadLine();
-            email = Validation.IsValidEmail(email);
+            email = Validation.ValidateEmail(email);
 
             Console.WriteLine("Enter Password");
             string password = Console.ReadLine();

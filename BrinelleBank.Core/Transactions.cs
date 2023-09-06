@@ -6,44 +6,56 @@ namespace BrinelleBank.Core
 {
     public class Transactions
     {
-        
+		public static void DepositFunds(double amount)
+		{
+			if (amount > 0)
+			{
+				Customer customer = FindCustomerByAccountNumber(LoggedIn.LoggedAccount);
 
-        public static void DepositFunds(double amount)
-        {
-            if (amount > 0)
-            {
-                foreach (var item in ListOfCustomers.customerList)
-                {
-                    if (item.Key == LoggedIn.LoggedAccount)
-                    {
-                        Customer customer = item.Value;
-                        double balance = customer.GetBalance();
-                        double currentBalance = balance + amount;
-                        customer.SetBalance(currentBalance);
-						// Update the customer's balance to the newly calculated 'currentBalance'.
+				if (customer != null)
+				{
+					double balance = customer.GetBalance();
+					double currentBalance = balance + amount;
+					customer.SetBalance(currentBalance);
 
-						string[] values = { customer.GetFullName(), amount.ToString(), LoggedIn.LoggedAccount, customer.GetAccountType(), currentBalance.ToString(), "CREDIT" };
-                        ListOfAccount.statements.Add(new KeyValuePair<string, string[]>(LoggedIn.LoggedAccount, values));
-						// Create a KeyValuePair and add it to a list of statements.
+					RecordTransaction(customer, amount, currentBalance);
 
-						break;
-                    }
-                }
-                Console.Clear();
-                Logger.Log($"{amount} naira has been credited to your account.");
-            }
-            else
-            {
-                Console.Clear();
-                Logger.Log("Transaction failed. Invalid amount");
-            }
+					Console.Clear();
+					Logger.Log($"{amount} naira has been credited to your account.");
+				}
+				else
+				{
+					Console.Clear();
+					Logger.Log("Transaction failed. Invalid account.");
+				}
+			}
+			else
+			{
+				Console.Clear();
+				Logger.Log("Transaction failed. Invalid amount.");
+			}
+		}
 
-        }
+		private static Customer FindCustomerByAccountNumber(string accountNumber)
+		{
+			foreach (var item in ListOfCustomers.customerList)
+			{
+				if (item.Key == accountNumber)
+				{
+					return item.Value;
+				}
+			}
+			return null; // Return null if customer not found
+		}
 
+		private static void RecordTransaction(Customer customer, double amount, double currentBalance)
+		{
+			string[] values = { customer.GetFullName(), amount.ToString(), LoggedIn.LoggedAccount, customer.GetAccountType(), currentBalance.ToString(), "CREDIT" };
+			ListOfAccount.statements.Add(new KeyValuePair<string, string[]>(LoggedIn.LoggedAccount, values));
+		}
+	
 
-
-
-        public static void Withdraw(double amount)
+	public static void Withdraw(double amount)
         {
             if (amount > 0)
             {
