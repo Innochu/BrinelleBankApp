@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj": {}
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj",
         "projectName": "BrinelleBank.Common",
-        "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj",
+        "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj",
         "projectName": "BrinelleBank.Core",
-        "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj",
+        "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj",
         "projectName": "BrinelleBank.Data",
-        "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj",
+        "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
         "projectName": "BrinelleBank.Model",
-        "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
+        "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -265,14 +265,14 @@
         }
       }
     },
-    "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj": {
+    "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj",
         "projectName": "BrinelleBankApp",
-        "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj",
+        "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBankApp\\BrinelleBankApp.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBankApp\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBankApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -294,17 +294,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Common\\BrinelleBank.Common.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Data\\BrinelleBank.Data.csproj"
               },
-              "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
-                "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
+              "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj": {
+                "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj"
               }
             }
           }

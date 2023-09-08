@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
       "projectName": "BrinelleBank.Model",
-      "projectPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
+      "projectPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\BrinelleBank.Model.csproj",
       "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\BrinelleBank.Model\\obj\\",
+      "outputPath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

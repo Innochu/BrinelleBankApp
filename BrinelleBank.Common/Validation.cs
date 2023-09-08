@@ -67,6 +67,7 @@ namespace BrinelleBank.Common
 				else if (phoneNumber.Length != 11)
 				{
 					Console.WriteLine("Invalid phone number. Please enter an 11-digit phone number.");
+					break;
 				}
 				//phoneNumber = GetUserPhoneNumber();
 			}

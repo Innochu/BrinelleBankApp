@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HR0ZqXd6fybMEBk+cZkh8+/NHpcCJWfco+NlYRooCKXNuqi88xVzH6OFy9juiu+m/Os21TnW7c0xObfPwiq4/g==",
+  "dgSpecHash": "n2VAFUH2BKPeKH6DODHyVWglq0RsVHPTCw4we0sVPjIik1oqdpI9jqYgYx6g7qYQCIYa3MGjIBtkBQuGxDKz7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deca\\Desktop\\week 3 innocent\\week-3-task-Innocent\\BrinelleBankApp\\CustomerTest\\CustomerTest.csproj",
+  "projectFilePath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\CustomerTest\\CustomerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deca\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Deca\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
