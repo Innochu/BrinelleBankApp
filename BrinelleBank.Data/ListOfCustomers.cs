@@ -28,12 +28,33 @@ namespace BrinelleBank.Data
 
         public static void ReadSavedFile()
         {
-            try
-            {
-                string jsonFile = File.ReadAllText(filepath);
-                
-            }
-        }
+			try
+			{
+				string jsonFile = File.ReadAllText(filepath);
+
+				var customelist = JsonConvert.DeserializeObject<Dictionary<string, Customer>>(jsonFile);
+
+				if (customelist != null)
+				{
+					customerList = customelist;
+				}
+
+
+
+				if (customerList.Count > 0)
+				{
+					Console.WriteLine("Customer data loaded successfully");
+				}
+				else
+				{
+					Console.WriteLine("No customer data found in the file");
+				}
+			}
+			catch (Exception e)
+			{
+				Console.WriteLine("Some error occurred: " + e.Message);
+			}
+		}
 
     }
 }
