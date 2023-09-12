@@ -56,3 +56,22 @@ C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\Brine
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\refint\BrinelleBank.Common.dll
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.pdb
 C:\Users\Deca\Desktop\week 3 innocent\week-3-task-Innocent\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\ref\BrinelleBank.Common.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Common.deps.json
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Common.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Common.pdb
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Core.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Data.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Model.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Core.pdb
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Data.pdb
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\bin\Debug\net6.0\BrinelleBank.Model.pdb
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.csproj.AssemblyReference.cache
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.AssemblyInfoInputs.cache
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.AssemblyInfo.cs
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.csproj.CoreCompileInputs.cache
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.csproj.CopyComplete
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\refint\BrinelleBank.Common.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\BrinelleBank.Common.pdb
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBank.Common\obj\Debug\net6.0\ref\BrinelleBank.Common.dll

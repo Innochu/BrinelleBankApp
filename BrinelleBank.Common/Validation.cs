@@ -86,8 +86,8 @@ namespace BrinelleBank.Common
 
 		public static string GetUserBVN(string bvn)
 		{
-			Console.WriteLine("Enter your BVN (11 digits):");
-			return Console.ReadLine();
+			
+			return bvn;
 		}
 		 
 		

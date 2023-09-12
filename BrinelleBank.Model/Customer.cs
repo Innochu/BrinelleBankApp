@@ -20,13 +20,13 @@ namespace BrinelleBank.Model
         public Customer(string firstName, string lastName, string phoneNumber, string email, string accountType, string password, string bvn)
         {
             this.FirstName = firstName;
-            LastName = lastName;
-            PhoneNumber = phoneNumber;
-            Email = email;
-            Balance = 0;
-            AccountType = accountType;
-            Password = password;
-            BVN = bvn;
+            this.LastName = lastName;
+            this.PhoneNumber = phoneNumber;
+            this.Email = email;
+            this.Balance = 0;
+            this.AccountType = accountType;
+            this.Password = password;
+            this.BVN = bvn;
         }
 
        public Customer() { }    
@@ -68,7 +68,7 @@ namespace BrinelleBank.Model
 
         public void SetBalance(double amount)
         {
-            Balance += amount;
+            Balance = amount;
         }
 
         public double GetBalance()

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5WKRczIdWqe5UA7XW5pEGAZq/RIs3KSSBPMDnufPlgk2j+n9VVrgyt3/Q+43sgm3kOQWF1a3zJYu+cYgFRN7Tg==",
+  "dgSpecHash": "VyFbWncWFHkKs4AuzziE78ydj33kQy8UgDSCpKax8giuHiNNrKo9tvI+5CYN8FAchJIde+joW8d6iO300MixCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deca\\Desktop\\week-4-task-Innochu\\BrinelleBankApp\\BrinelleBank.Core\\BrinelleBank.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Deca\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

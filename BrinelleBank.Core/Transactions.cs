@@ -67,41 +67,43 @@ namespace BrinelleBank.Core
 
 
 		// Define a delegate that matches the signature of WithdrawNow
-		private delegate void WithdrawHandler(double amount);
+		private delegate void WithdrawHandler(double amountToWithdraw);
 
-		public static void Withdraw(double amount)
+		public static void Withdraw(double amountToWithdraw)
 		{
-			if (amount > 0)
+            double balance = CheckBalance();
+
+            if (amountToWithdraw > 0 && balance > 0)
 			{
-				double balance = CheckBalance();
+
+               
 				string accountType = GetAccountType();
 
 				if (accountType == "SAVINGS")
 				{
-					PerformWithdraw(balance, amount, WithdrawNow);
-				}
+					PerformWithdraw(amountToWithdraw, WithdrawNow);
+                    Console.WriteLine("withdrawal successful");
+                }
 				else if (accountType == "CURRENT")
 				{
-					PerformWithdraw(balance, amount, WithdrawNow);
-				}
+					PerformWithdraw(amountToWithdraw, WithdrawNow);
+                    Console.WriteLine("withdrawal successful");
+                }
 			}
 			else
 			{
-				Console.Clear();
+				
 				Logger.Log("Invalid withdrawal amount");
 			}
 		}
 
 
-		private static void PerformWithdraw(double balance, double amount, WithdrawHandler withdrawHandler)
+		private static void PerformWithdraw(double amountToWithdraw, WithdrawHandler withdrawHandler)
 		{
-			if (withdrawHandler != null)
-			{
-				withdrawHandler(amount);
-			}
-		}
+            withdrawHandler?.Invoke(amountToWithdraw);
+        }
 
-		public static void WithdrawNow(double amount)
+		public static void WithdrawNow(double amountToWithdraw)
 		{
 			foreach (var item in ListOfCustomers.customerList)
 			{
@@ -109,14 +111,11 @@ namespace BrinelleBank.Core
 				{
 					Customer customer = item.Value;
 					double balance = customer.GetBalance();
-					double currentBalance = balance - amount;
+					double currentBalance = balance - amountToWithdraw;
 					customer.SetBalance(currentBalance);
 
-					string[] values = { customer.GetFullName(), amount.ToString(), LoggedIn.LoggedAccount, customer.GetAccountType(), currentBalance.ToString(), "DEDIT" };
+					string[] values = { customer.GetFullName(), amountToWithdraw.ToString(), LoggedIn.LoggedAccount, customer.GetAccountType(), currentBalance.ToString(), "DEDIT" };
 					ListOfAccount.statements.Add(new KeyValuePair<string, string[]>(LoggedIn.LoggedAccount, values));
-
-					Console.Clear();
-					Logger.Log("Withdrawal successful");
 
 					break;
 				}

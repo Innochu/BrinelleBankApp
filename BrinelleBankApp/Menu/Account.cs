@@ -6,11 +6,11 @@ using BrinelleBank.Common;
 namespace BrinelleBank.Menu
 {
     public class Account
-    {
+    {   
 
         public static void CreateUserAccount()
         {
-            Console.WriteLine("WELCOME TO BRINELLE BANK - ACCOUNT CREATION");
+            Console.WriteLine("ACCOUNT CREATION SECTION");
 
             Customer customer = AccountCreationPrompt(); // Call a separate method for account creation
 

@@ -1742,7 +1742,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "BrinelleBank.Model": "1.0.0"
+          "BrinelleBank.Model": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
           "bin/placeholder/BrinelleBank.Data.dll": {}

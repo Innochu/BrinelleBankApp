@@ -7,7 +7,10 @@ namespace BrinelleBank.Menu
 {
     public class HomePage
     {
-        public void userWelcome()
+
+		
+
+		public void userWelcome()
         {
             Console.WriteLine("WELCOME TO BRINELLE BANK");
             Console.WriteLine("Press 1 to create account\n Press 2 to login\n");
@@ -30,7 +33,12 @@ namespace BrinelleBank.Menu
 
         }
 
-        public static void Options()
+
+
+
+		
+
+		public static void Options()
         {
 
             while (true)

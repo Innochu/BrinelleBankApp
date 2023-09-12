@@ -1,6 +1,8 @@
 ﻿
 
 using BrinelleBank.Model;
+using Newtonsoft.Json;
+
 
 namespace BrinelleBank.Data
 {
@@ -11,6 +13,11 @@ namespace BrinelleBank.Data
         public static void AddCustomer(string accountNo, Customer customer)
         {
             customerList.Add(accountNo, customer);
+        }
+
+        public static void SaveToFile()
+        {
+            string json = JsonConvert.SerializeObject(customerList, Formatting.Indented);
         }
     }
 }
