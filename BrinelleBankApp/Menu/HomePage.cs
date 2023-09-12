@@ -1,5 +1,6 @@
 ﻿using BrinelleBank.Common;
 using BrinelleBank.Core;
+using BrinelleBank.Data;
 using BrinelleBank.Model;
 
 
@@ -58,21 +59,26 @@ namespace BrinelleBank.Menu
                         double amount = Convert.ToDouble(inputAmount);
 
                         Transactions.DepositFunds(amount);
-                        break;
+                        ListOfCustomers.SaveToFile();   // this saves my deposit into json file
+
+						break;
 
                     case "2":
                         Logger.Log("Input amount to withdraw");
                         string inputWithdrawAmount = Console.ReadLine();
                         double amountToWithdraw = Convert.ToDouble(inputWithdrawAmount);
 
+
                         Transactions.Withdraw(amountToWithdraw);
-                        break;
+						ListOfCustomers.SaveToFile();   // this saves my withdraw into json file
+						break;
 
                     case "3":
                         Logger.Log("Input amount to Transfer");
                         double transferAmount = double.Parse(Console.ReadLine());
                         Transactions.Transfer(transferAmount);
-                        break;
+						ListOfCustomers.SaveToFile();  // this saves my transfer into json file
+						break;
 
                     case "4":
                         StatementOfAccount.PrintStatementOfAccount();
