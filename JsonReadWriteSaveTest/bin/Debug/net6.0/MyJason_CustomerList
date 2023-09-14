@@ -1,0 +1,12 @@
+{
+  "123": {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "johndoe@example.com",
+    "PhoneNumber": "1234567890",
+    "BVN": "12345",
+    "Balance": 0.0,
+    "AccountType": "Savings",
+    "Password": "password"
+  }
+}

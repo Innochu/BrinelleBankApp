@@ -91,11 +91,12 @@ namespace BrinelleBank.Core
                 }
 			}
 			else
+				
 			{
 				
 				Logger.Log("Invalid withdrawal amount");
 			}
-		}
+		}  
 
 
 		private static void PerformWithdraw(double amountToWithdraw, WithdrawHandler withdrawHandler)

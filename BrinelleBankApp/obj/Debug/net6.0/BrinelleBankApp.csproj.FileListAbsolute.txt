@@ -95,3 +95,4 @@ C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBankApp\obj\De
 C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBankApp\obj\Debug\net6.0\BrinelleBankApp.pdb
 C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBankApp\obj\Debug\net6.0\BrinelleBankApp.genruntimeconfig.cache
 C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBankApp\obj\Debug\net6.0\ref\BrinelleBankApp.dll
+C:\Users\Deca\Desktop\week-4-task-Innochu\BrinelleBankApp\BrinelleBankApp\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -1044,7 +1044,8 @@
       },
       "BrinelleBank.Data/1.0.0": {
         "dependencies": {
-          "BrinelleBank.Model": "1.0.0"
+          "BrinelleBank.Model": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "BrinelleBank.Data.dll": {}
